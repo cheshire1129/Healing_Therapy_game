@@ -20,12 +20,13 @@ There would be a sb3 file underneath.
 Click to play. Enjoy your game!<br><br>
 
 <p align="center">
-  <img src="title.png" width="40%" />
-  <img src="content.png" width="40%" /> 
+  <img src="title.png" width="45%" />
+  <img src="content.png" width="45%" /> 
 </p>
+<br>
 
-<hr>
+<br>
 <p align="center">
-    <img src="scratch_room.gif" width="40%"  />
-    <img src="scratch_leaf_vid.gif" width="40%"  /> 
+    <img src="scratch_room.gif" width="45%"  />
+    <img src="scratch_leaf_vid.gif" width="45%"  /> 
 </p>
