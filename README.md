@@ -18,9 +18,14 @@ The process of installation and executing the game is simple.
 All you have to do is cloning the repository through clone or fork, then unzip the folder inside.  
 There would be a sb3 file underneath.  
 Click to play. Enjoy your game!<br><br>
-    
-    ![title](https://github.com/cheshire1129/Healing_Therapy_game/blob/main/title.png)  
-    ![content](https://github.com/cheshire1129/Healing_Therapy_game/blob/main/content.png)    
 
-    ![room](https://github.com/cheshire1129/Healing_Therapy_game/blob/main/scratch_room.gif)  
-    ![leaf](https://github.com/cheshire1129/Healing_Therapy_game/blob/main/scratch_leaf_vid.gif)    
+<p align="center">
+  <img src="title.png" width="40%" />
+  <img src="content.png" width="40%" /> 
+</p>
+
+<hr>
+<p align="center">
+    <img src="scratch_room.gif" width="40%"  />
+    <img src="scratch_leaf_vid.gif" width="40%"  /> 
+</p>
